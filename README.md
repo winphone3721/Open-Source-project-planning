@@ -2,4 +2,4 @@
 # 任务
 ## 1、收集常见的.NET开源项目
 ## 2、根据开源项目规划功能
-## 3、
+* 参考：https://www.oschina.net/project/lang/194/csharp
