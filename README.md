@@ -16,10 +16,10 @@
 * 5.ioc框架使用autofac.(扩展支持Ninject)
 ### 参考
 #### yaml 
-  http://www.cnblogs.com/shanyou/p/4733267.html
-  https://blog.csdn.net/sD7O95O/article/details/78096321
+    http://www.cnblogs.com/shanyou/p/4733267.html
+    https://blog.csdn.net/sD7O95O/article/details/78096321
 
 #### core
-  https://blog.csdn.net/sD7O95O/article/details/78700937
+    https://blog.csdn.net/sD7O95O/article/details/78700937
 #### Ninject
-  https://blog.csdn.net/simpkan/article/details/8169740
+    https://blog.csdn.net/simpkan/article/details/8169740
