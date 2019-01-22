@@ -27,3 +27,5 @@
     https://blog.csdn.net/simpkan/article/details/8169740
 #### 特性
     https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/attributes/index
+#### 创建自定义特性
+    https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/attributes/creating-custom-attributes
