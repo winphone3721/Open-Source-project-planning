@@ -10,10 +10,12 @@
 # 2019-01-22
 ## 暂定目标：
 * 1.生命周期管理。（比如说管理Service等生命周期）
-* 2.连接池管理。（dapper连接池管理，连接生命周期等，异步时连接池管理的问题。）
+* ~~2.连接池管理。（dapper连接池管理，连接生命周期等，异步时连接池管理的问题。）~~
 * 3.配置文件默认json格式。（后续可能支持yaml格式。）
 * 4.依赖注入（单列，每次都生成新的等)
 * 5.ioc框架使用autofac.(扩展支持Ninject)
+* 6.配置读取方式使用 **特性** 。
+
 ### 参考
 #### yaml 
     http://www.cnblogs.com/shanyou/p/4733267.html
@@ -23,3 +25,5 @@
     https://blog.csdn.net/sD7O95O/article/details/78700937
 #### Ninject
     https://blog.csdn.net/simpkan/article/details/8169740
+#### 特性
+    https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/attributes/index
