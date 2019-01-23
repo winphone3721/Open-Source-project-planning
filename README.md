@@ -15,7 +15,7 @@
 * 4.依赖注入（单列，每次都生成新的等)
 * 5.ioc框架使用autofac.(扩展支持Ninject)
 * 6.配置读取方式使用 **特性** 。
-* 7.orm框架dapper和EF。
+* 7.orm框架dapper和EF（SqlSugar备选，扩展支持对象）。
 
 ### 参考
 #### yaml 
