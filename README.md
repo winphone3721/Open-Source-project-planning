@@ -15,6 +15,7 @@
 * 4.依赖注入（单列，每次都生成新的等)
 * 5.ioc框架使用autofac.(扩展支持Ninject)
 * 6.配置读取方式使用 **特性** 。
+* 7.orm框架dapper和EF。
 
 ### 参考
 #### yaml 
@@ -29,3 +30,5 @@
     https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/attributes/index
 #### 创建自定义特性
     https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/attributes/creating-custom-attributes
+#### orm框架
+    https://segmentfault.com/a/1190000011676744
